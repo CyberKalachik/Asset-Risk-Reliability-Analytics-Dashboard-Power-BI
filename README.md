@@ -17,19 +17,19 @@ Using Power BI, DAX, SQL, and data modeling techniques, I built interactive dash
 
 ### Some insights identified during the analysis:
 
-— Equipment-related failures were the primary driver of customer interruptions
-— High-risk assets were concentrated among aging infrastructure classes
-— Maintenance backlog patterns revealed both aging-related and volume-driven operational risks
-— Data quality gaps significantly impacted risk visibility and decision accuracy
+- Equipment-related failures were the primary driver of customer interruptions
+- High-risk assets were concentrated among aging infrastructure classes
+- Maintenance backlog patterns revealed both aging-related and volume-driven operational risks
+- Data quality gaps significantly impacted risk visibility and decision accuracy
 
 ### This project strengthened my experience in:
 
-— Data visualization & dashboard development
-— Risk-based operational analytics
-— Asset lifecycle & reliability analysis
-— Maintenance performance reporting
-— Data quality assessment
-— Utility-focused operational intelligencee
+- Data visualization & dashboard development
+- Risk-based operational analytics
+- Asset lifecycle & reliability analysis
+- Maintenance performance reporting
+- Data quality assessment
+- Utility-focused operational intelligencee
 
 ### Watch the full report via the link:
 
