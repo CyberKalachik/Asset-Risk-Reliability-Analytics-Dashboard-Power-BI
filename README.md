@@ -24,12 +24,12 @@ Using Power BI, DAX, SQL, and data modeling techniques, I built interactive dash
 
 ### This project strengthened my experience in:
 
-— 📊 Data visualization & dashboard development
-— 📈 Risk-based operational analytics
-— 🛠️ Asset lifecycle & reliability analysis
-— 📉 Maintenance performance reporting
-— 🧩 Data quality assessment
-— ⚡ Utility-focused operational intelligencee
+—  Data visualization & dashboard development
+—  Risk-based operational analytics
+—  Asset lifecycle & reliability analysis
+—  Maintenance performance reporting
+—  Data quality assessment
+—  Utility-focused operational intelligencee
 
 ### Watch the full report via the link:
 
